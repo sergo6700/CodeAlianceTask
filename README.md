@@ -19,7 +19,7 @@ Fetches
 PHP 7+ <br>
 Laravel 8
 
-All application login wrote in app/services 
+All appication’s logic is writen in app/services
 
 Manager
 
